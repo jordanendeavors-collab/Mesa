@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /checkup/
+
+Sitemap: https://azmesawatch.com/sitemap.xml
